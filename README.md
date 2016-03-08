@@ -10,3 +10,9 @@ It is a powerfull project developed to do anything
 - [ ] Define folders structure (private and public)
 - [ ] Create the styles and js interactions
 
+
+## Notify about changes
+
+* @GPMenezesRS
+* @natanfelles
+
