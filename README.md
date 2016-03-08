@@ -4,15 +4,15 @@ It is a powerfull project developed to do anything
 
 ## Task List
 
-- [ ] Create a SVG image to index layout
-- [ ] Create a index.html as defined in the image to use as example
-- [ ] Define the Programming paradigm
+- [ ] Create use case diagram (software: Dia or Astha);
+- [ ] Create conceptual model diagram (software: Dia or Astha);
+- [ ] Define the programming paradigm (OO or structured);
+- [ ] Create classes or logical diagram (software: Dia or Astha);
+- [ ] Final adjustment of diagrams;
+- [ ] Create the SVG layout images;
 - [ ] Define folders structure (private and public)
+- [ ] Create frontend pages/views;
 - [ ] Create the styles and js interactions
-
-
-## Notify about changes
-
-* @GPMenezesRS
-* @natanfelles
+- [ ] Increase code (if required);
+- [ ] System tests (full functionality);
 
