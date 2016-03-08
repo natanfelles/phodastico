@@ -1,6 +1,15 @@
-*/config/development
-*/logs/log-*.php
-!*/logs/index.html
-*/cache/*
-!*/cache/index.html
-!*/cache/.htaccess
+## Mac OS
+.DS_Store
+
+## Netbeans
+/nbproject/
+
+## PhpStom
+.idea/*
+
+## Sublime
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
