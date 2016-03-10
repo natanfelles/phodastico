@@ -4,7 +4,7 @@ It is a powerfull project developed to do anything
 
 ## Task List
 
-- [ ] Create use case diagram (software: Dia or Astha);
+- [x] Create use case diagram (software: Dia or Astha);
 - [ ] Create conceptual model diagram (software: Dia or Astha);
 - [ ] Define the programming paradigm (OO or structured);
 - [ ] Create classes or logical diagram (software: Dia or Astha);
